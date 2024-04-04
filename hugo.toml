@@ -1,0 +1,4 @@
+baseURL = 'https://reonnamatame.github.io/myprofile/'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+publishDir = 'docs'
